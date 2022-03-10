@@ -9,5 +9,9 @@ a {
   color: #00B7FF;
 }
 .flag{
-color:blueviolet
+color:wheat;
+}
+#flagName{
+  color:yellowgreen;
+  font-style: oblique;
 }
