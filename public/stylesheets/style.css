@@ -11,7 +11,9 @@ a {
 .flag{
 color:wheat;
 }
-#flagName{
+.flagName{
   color:yellowgreen;
   font-style: oblique;
+  font-size: large;
+  font-weight: bold;
 }
